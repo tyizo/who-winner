@@ -1,0 +1,22 @@
+/*
+#cards {
+    display: none ;
+}
+*/
+
+
+.note {
+    opacity: 80%;
+}
+
+#countdown {
+    color: blue;
+    opacity: 60%;
+    padding: 10px;
+    transition: .6s ease;
+}
+
+#countdown:hover {
+    transition: .5s ease;
+    opacity: 100%;
+}
