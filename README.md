@@ -17,8 +17,6 @@ who's gonna win ? random winner choosing system from the database. written in PH
 <img src="./screenshots/screenshot_3.png" align="center">
 <br>
 <img src="./screenshots/screenshot_4.png" align="center">
-<br>
-<h1 align="center">THAT'S IT 👌🪐.</h1> 
-<br>
 <hr>
-<br>
+<h1 align="center">THAT'S IT 👌🪐.</h1> 
+
